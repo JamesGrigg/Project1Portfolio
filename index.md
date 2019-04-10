@@ -58,8 +58,10 @@ Today I looked into making a menu system for the simulation. I wanted to be able
 Today I met with Mary. This time we talked more specifically on how to make the simulation more enjoyable. We brainstormed ideas on what we could to do improve the usability and to make it more interesting. We talked about making the simulation into more of a game, rather than just a simple simulation. We brainstormed that we could have a game where the user has to do something specific, then redo something similar with visual conditions applied over top. We discussed about having visual condition stack ontop of each other. I then showed her what i had been working on. I showed her my Glaucoma effects and the kitchen with the objects with physics. She was happy with where I was in development. I clarified some extra details about certain visual impairments with her while she was in person, and now I know exactly where I need to go from here.
 
 ### Thursday Class:
+After my meeting with Mary on Tuesday, Mary and Adon had a talk about new ideas regarding the simulation. They thought of ways to improve the feel of the game. They came up with an idea of making it more of a game. This time instead having pressured situations with a time limit or something close to that. Adon and I talked about it together and thought of simple ideas such as a pot in a kitchen is about to boil over but then the phone rings. It would be a rather simple fix without any visual conditions applied, but once the conditions are applied it would become much harder. This talk about making it more of a game definitely increased my interest on the topic and increased my performance. I also began work on my Menu system. I decided to follow a 'Constellation Menu' layout, where the menu progressively grows bigger as you choose mroe options. I felt like this way was the best for users in VR.
 
 ## Week: 8
 ### Monday Class:
+
 
 ### Thursday Class:
