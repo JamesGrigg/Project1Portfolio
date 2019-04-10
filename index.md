@@ -45,6 +45,7 @@ After I had done all this documentation and research, I started making a 3D kitc
 
 ## Week: 6
 ### Monday Class:
+Over the weekend, I had worked on my Kitchen scene. I had used the code I had created for the Ball game a few weeks earlier, to implement physics into the objects that sat ontop of the kitchen bench. The user was now able to pick up pots and pans on the kitchen table and drop them causing them to fall back onto the bench, onto the floor or even into the kitchen sink. After making this, I encountered a bug. If I was to pick up objects and rub them against the kitchen bench, they would begin to fly out sideways for not reason with no control. I decided it wasn't a huge bug and I will worry about it later. Monday's class did not happen due to it being a Public holiday.
 
 ### Thursday Class:
 
