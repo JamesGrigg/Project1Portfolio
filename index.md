@@ -21,8 +21,10 @@ On Thursday, I began practising making scenes in Unity. The group had decided to
 
 ## Week: 3
 ### Monday Class:
+On the Monday class, I wanted to start focusing my attention towards the project, and what I was going to be making. At this point, I had not been assigned an actual project, I just knew that Adon was planning on doing something with Virtual Reality (VR) development on mobile devices. I began looking into how dofficult it is to create VR apps and learnt that it was relatively straight forward. I began by reading up on Google DayDream as I had been given a Google DayDream VR Headset to work with. I read the documentation on how to setup a scene in Unity and watched a few tutorials. Once I had a fair idea of what I was doing, I began creating a scene in which the player just stands infront of a ball and they are able to pick it up and move it around.
 
 ### Thursday Class:
+On Thurday I got to class and continued work on my VR world. At this point I could pick the ball up and move it around, but once I released the ball, it remained exactly where it was. I decided to add gravity to it. (The code I used here ended up being used later on for the real project). During thi9s class, I learnt that I would be working with visual impairments. Straight away I thought about Colour Blindness. I research some colour blindness plugins and presents and found a perfect one. I quickly implemented it into my Ball scene. I now had a game which you could pick up a ball while simulating different colour blindnesses.
 
 ## Week: 4
 ### Monday Class:
