@@ -53,6 +53,9 @@ This Thursday class I ebgan looking into how to implement most of my visual effe
 ## Week: 7
 ### Monday Class:
 
+### Tuesday:
+Today I met with Mary. This time we talked more specifically on how to make the simulation more enjoyable. We brainstormed ideas on what we could to do improve the usability and to make it more interesting. We talked about making the simulation into more of a game, rather than just a simple simulation. We brainstormed that we could have a game where the user has to do something specific, then redo something similar with visual conditions applied over top. We discussed about having visual condition stack ontop of each other. I then showed her what i had been working on. I showed her my Glaucoma effects and the kitchen with the objects with physics. She was happy with where I was in development. I clarified some extra details about certain visual impairments with her while she was in person, and now I know exactly where I need to go from here.
+
 ### Thursday Class:
 
 ## Week: 8
