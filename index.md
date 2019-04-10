@@ -35,6 +35,9 @@ With the knowledge I now had from the Monday session, I created a basic showcase
 
 ## Week: 5
 ### Monday Class:
+This Monday class was very productive. Our group got split up into 3 solo groups. We were told we would be working with different clients based on the previous information we got told. I got assigned to work with Mary, who wanted to make a Visual Condition simualtion app. This was perfect, as I had already been learning about colour blindness. We met around 2pm, and discussed potential ideas. I showed her what I had been doing with the Colour Blindness and how it looks when in a VR headset. She loved the idea. Originally she had not planned on using colour blindness as one of the simulations but after showing this she said I should potentially implement it later on.
+Some of the ideas we discussed were having a kitchen or office space in which the user has to interact with different objects with different levels of visual conditions applied. For example, trying to read an email when the user is suffering from Cataracts (a condition where the person's vision has becomne blurry). We both liked these ideas and I began brainstorming ways to proceed.
+After this class, I emailed Mary and got a list of the visual condition she would like to see implemented into the app, as well as a list of visual conditions she might like implemented once the main ones were implemented.
 
 ### Thursday Class:
 
