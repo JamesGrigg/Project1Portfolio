@@ -40,6 +40,8 @@ Some of the ideas we discussed were having a kitchen or office space in which th
 After this class, I emailed Mary and got a list of the visual condition she would like to see implemented into the app, as well as a list of visual conditions she might like implemented once the main ones were implemented.
 
 ### Thursday Class:
+This Thursday class was essentially a research day. I had recieved the day before a list of the visual conditions that Mary wished to see in the game. I began to document on Github what these conditions were. Mary had also suggested getting an app on my iPhone which did a similar simulation but just through the camera. With the help of the app and some research, I was able to document how these different visual conditions affect the patient, while also creating a seperate Github wiki page that documented ways I thought of on how to implement these visual conditions as effects in Unity.
+After I had done all this documentation and research, I started making a 3D kitchen in Unity. I imported some kitchen assets, and built a basic Kitchen with a bench and some objects ontop of the bench. All the is able to do at this point is load up into this kitchen and look around.
 
 ## Week: 6
 ### Monday Class:
