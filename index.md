@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# Portfolio
 
-You can use the [editor on GitHub](https://github.com/JamesGrigg/Project1Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This portfolio contains a sprint by sprint reflection of how our group project went. It includes my personal Professional and Technical proficiencies, and my thoughts on how I did, and how our team went as a whole. It documents my learning experience with new frameworks and languages. After each section below, there will be screenshots based off of what was talking about.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Week: 1
+### Monday Class:
 
-### Markdown
+### Thursday Class:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Week: 2
+### Monday Class:
 
-```markdown
-Syntax highlighted code block
+### Thursday Class:
 
-# Header 1
-## Header 2
-### Header 3
+## Week: 3
+### Monday Class:
 
-- Bulleted
-- List
+### Thursday Class:
 
-1. Numbered
-2. List
+## Week: 4
+### Monday Class:
 
-**Bold** and _Italic_ and `Code` text
+### Thursday Class:
 
-[Link](url) and ![Image](src)
-```
+## Week: 5
+### Monday Class:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Thursday Class:
 
-### Jekyll Themes
+## Week: 6
+### Monday Class:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JamesGrigg/Project1Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Thursday Class:
 
-### Support or Contact
+## Week: 7
+### Monday Class:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Thursday Class:
+
+## Week: 8
+### Monday Class:
+
+### Thursday Class:
