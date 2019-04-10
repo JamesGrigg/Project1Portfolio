@@ -14,8 +14,10 @@ During our Thursday class, the project teams were announced. I had been put into
 
 ## Week: 2
 ### Monday Class:
+On the Monday class, we got introduced to the software we would be using. It was game engine known as Unity. This class was primarily focused on getting Unity up and running, then learning how to use it. Our computer were not powerful enough to run some of the basic tutorials so I resorted to going onto Youtube and the Unity documentation to learn how to start development with Unity.
 
 ### Thursday Class:
+On Thursday, I began practising making scenes in Unity. The group had decided to dedicate the next few classes to primarily learning the fundamentals of Unity, so they began to follow a tutorial of how to make a roll a ball game. I jumped in head first and just started developing a small map with interactable objects. I wanted to learn about physics and colliders. I learnt the differences between the different colliders and which colliders are better for certain situations.
 
 ## Week: 3
 ### Monday Class:
