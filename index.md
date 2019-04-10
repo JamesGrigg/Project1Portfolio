@@ -28,8 +28,10 @@ On Thurday I got to class and continued work on my VR world. At this point I cou
 
 ## Week: 4
 ### Monday Class:
+On the Monday class, I decided to dwell deeper into Colour Blindness. I began researching it, learning about which condition effected which colours and how it happened. This gave me a good understanding of the three main types of colour blindness, Protonopia, Deuteranopia and Tritanopia. From here I documented some key details on my Github page. I also played around with the colour blindness plugin I had aquired last class.
 
 ### Thursday Class:
+With the knowledge I now had from the Monday session, I created a basic showcase in Unity. I created a world with these blocks which were all different colours. The blocks were placed in a way which was able to show how different colours can easily blend together with colour blindness. This was a good starting ground for a visual impairments project. As a group, we also wrote down our README on Github, outlining what we could potentially do with this app. During the creation of this showcase, I wanted to know more about which colours were affected by other colours so I continued to document which colours blended with other colours. By the end of the class, I had a working showcase which did a good job in showing the different colours that blend with different types of colour blindness.
 
 ## Week: 5
 ### Monday Class:
