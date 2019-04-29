@@ -80,5 +80,8 @@ Mary was unable to make it for a meeting today, so we arranged to meetup during 
 After this Monday class, I went home and implented a Glaucoma and a substitute preset for Cataracts in the menu. The menu can now add these effects over the user's screen, and they can stack. There is also a reset button that resets the effects.
 
 ### Thursday Class:
+Today I was scheduled to meet with Mary but she was unable to attend. So instead, I decided to work on cleaning up my project. I added colourblindness options to the menu as placeholders for future development (and as reminders to do my work). I also went through and removed all duplicate code and just generally cleaned up my code for my scripts. Other than that, I did not do much work as I was expecting Mary to arrive for a meeting and did not want to get too indepth with work and have to pause progress.
 
 ### Reflection:
+
+## Holidays:
