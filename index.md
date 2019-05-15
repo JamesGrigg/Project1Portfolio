@@ -96,4 +96,30 @@ I wanted there to be more interaction with the environment to make the kitchen f
 
 Lastly I just cleaned up the game a little. I changed the way that shadows are rendered in the game. They now look a lot smoother and not as ugly, while running better on mobile than they used to. I also added a simply hover effect that highlights objects when hovering over them.
 
+### Reflection:
 
+## Week 9:
+### Monday Class:
+Today was the first day back after the break. I met with Mary and showed her what I had been working on over the holidays. She was pleased with what I presented. We discussed further ideas and talked more about what we wanted to have in the game side of the application. We talked about having a checklist system implemented, and other types of objectives we could add into the game. Other than that, nothing really happened today.
+
+### Thursday Class:
+Today, Adon talked to me about the game and decided he wanted me to try and implement a HUD (Heads up display) into the app to try and make it easier for people to keep track of visual conditions, and objectives. He also mentioned that on Monday, we will be having an open day, and he wanted me to prepare a basic game for the kids to be able to play when they come in. We agreed that we could just use the simple game that already exists (which is to put the object into the sink), but have it so once the user puts an object into the sink, a visual condition is applied (and so on). I knew exactly where to begin on this and started implementing it. At first, I started working on the HUD, however I quickly realised that the way Unity handles a HUD type system inside VR was going to make things difficult. I got a basic HUD setup and then proceeded to work on the game.
+
+### Reflection:
+
+## Week 10:
+### Monday Class:
+Today we had the first of the Otago Polytechnic Open Days. Over the weekend, I finished up the game for the open day, as well as the HUD. Unfortunately, I did not have enough time to finish the HUD, and so once a visual effect was applied to the user, it effected the HUD as well. This was fine as this was just a day to test out the app for new people. I spent the whole class (plus a few hours before hand) showing off my application. For the most part, everyone played the game easily with minimal instruction, which I found to be a success, since it was not too indepth for new players. I got some notes from some of the users, including users who had previous use of Unity, and they all agreed that the HUD needed to be ontop of the visual conditions, which I agreed with.
+
+### Thursday Class:
+I started working on making my HUD visable over the visual conditions. I had an idea of using multiple cameras to trick the game into displaying it over top, and started looking into it. My first concern was that multiple cameras may cause performance issues on mobile devices, however this did not seem to be the case. I proceeded to work on implementing a multi camera environment, and it worked to my amazement. The only issue was to have it in a location in 3D space that was not to odifficult to read in VR, nor was it too imposing on the user. This just took a big of trial and error to get right, but now I have a basic HUD setup and ready to deploy in the future.
+
+### Reflection:
+
+## Week 11:
+### Monday Class:
+I was unable to go to this class as I am sick. So far this week I have not done any work as I have not felt well enough to work on this.
+
+### Thursday Class:
+
+### Reflection:
