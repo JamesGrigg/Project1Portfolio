@@ -121,5 +121,52 @@ I started working on making my HUD visable over the visual conditions. I had an 
 I was unable to go to this class as I am sick. So far this week I have not done any work as I have not felt well enough to work on this.
 
 ### Thursday Class:
+Same situation as above. Was sick on this day as well, and was unable to go to class. This week consisted on minimal work which involdd just updating logs, and fixing up a couple of small bugs. 
+
+### Reflection:
+
+## Week 12:
+### Monday Class:
+
+### Thursday Class:
+
+### Saturday:
+Today we had the TEXpo in the Hub at Polytech. The TEXpo ran from 11am to 4pm, and I had to present my app. I had plenty of people come and use the app, and was able to get some valuable feedback in regards to certain features the users liked and disliked, as well as features they would like to see implemented. People seemed to have quite positive feedback regarding the app, however it was hard to judge properly as most people were too shy to really give the app a go as they had to wear the headset. The people who did give it a go, suggested that I need to emphasise the visual condition's name as they were too distracted playing the game to take time and read the HUD. Other feedback suggestions and ideas are on the "Brainstorm Ideas / Feedback" wiki page. It was good to be able to get some consumer feedback on the product, and it has given me some things to work on since I was starting to run out of good ideas.
+
+### Reflection:
+
+## Week 13:
+### Monday Class:
+
+### Thursday Class:
+Today I was at Otago Boys' High School for their careers day. I presented my app at the IT stand. This event went from 9am to 12pm, however I had to leave slightly early at 11:30. This day served as a more consistent testing period than the TEXpo, as the people who came and tried out the app were mainly students who were studying digital technologies, and were genuinly looking at a career in IT. They were interested and gave the game a good go. With many of them having some basic programming knowledge, they were able to have a good conversation with me about new concepts for the game, as well as other ideas on how to go about doing things. Overall it was rather helpful for ideas on how to progress the game. Refer to the "Brainstorm Ideas / Feedback" wiki page for moe information of things I learnt there.
+
+### Reflection:
+
+## Week 14:
+### Monday Class:
+
+### Thursday Class:
+Today I worked on making the scene look a little nicer. I have added in a light on the wall, a roof to the kitchen and have baked the lighting so that it looks mor realistic. I have also added a window into the kitchen, which has a small lawn outside with some grass and trees. It's nothing too beautiful, but it gives the scene some life. The hardest part is making a nice environment that will still run at 60fps on a mobile device, as anything less than 60fps can start causing issues in VR. This is difficult to balance out since my shaders already cause some performance drops.
+
+### Weekend:
+I have got into contact with Mary, and we have arranged a meeting on Monday to see how the product is looking. I have also added a small tutorial section to the game, which is just on the wall to the right of the player. It gives the basics on how the game works as well as how the controls work. I have also finally implemented the sandbox mode, which was a highly requested feature. The game is sectioned and has 3 levels per section. At this point, the game is pretty much finished.
+
+### Reflection:
+
+## Week 15:
+### Monday Class:
+Today I met with Mary for the first time in quite a while. She had been too busy to come along for meetings. This was the last time I will see her for this project, as she is leaving Dunedin for a while. She sat down with me for an hour and tried out the game and gave some feedback. She seemed to really like it!
+
+### Thursday Class:
+
+### Reflection:
+
+## Week 16:
+### Monday Class:
+Spent the whole class working through the Openmind Workshop. At this point, I have pretty much finiahed development of the app. I recieved the login details for the Polytech Playstore account, and they want me to upload my app onto their account. Mary also wants this to happen, as it will then be accessible overseas with people who wanted to use the app.  
+
+### Thursday Class:
+
 
 ### Reflection:
