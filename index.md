@@ -1,6 +1,7 @@
 # Portfolio
 
 This portfolio contains the week by week reflections of how I am going on my Visual Condition Project. It contains my personal Professional and Technical proficiencies, as well as thoughts on how well I did. It documents my learning experiences with Unity. 
+To see my GitHub Repository, follow the link below. At thie GitHub Repository, you will find my app, extra logs and my wiki page which contains information regarding the process involved to make the app.
 
 ## Week: 1
 ### Monday Class:
