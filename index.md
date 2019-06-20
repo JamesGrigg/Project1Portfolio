@@ -63,6 +63,8 @@ Over the weekend, I had worked on my Kitchen scene. I had used the code I had cr
 ### Thursday Class:
 This Thursday class I ebgan looking into how to implement most of my visual effects. I decided that using Post Processing might be the best solution as both Mary and Adon had suggested being able to change the settings of the visual effect in game. I looked over the post processing effects and decided that the easiest one to start with would be Glaucoma as I could just create a Vignette that creates a faded tunnel vision effect. I was able to create the effect, but currently the only way to turn it on and off is outside of the game. I will implement a way later to be able to change it in game through a menu or something. I also realised a way to fix the magical flying pots bug. After watching a tutorial on an unrelated part of unity, I realised that when I turned gravity off, it meant that any force applied to an object would cause that object to fly away on a tangent. It was a simple fix. When the user interacts with an object, the objects gravity is no longer affected, and instead the object is turned to be in a  Kinematic state. This introduces the problem where there is no collision with objects that are being held, however this makes moving objects around a bit easier. I will worry about details like this later.
 
+![Image](Images/OldGlaucoma.png)
+
 ### Reflection:
 
 ## Week: 7
@@ -89,6 +91,8 @@ On the Monday class, I asked Adon and some of the other game dev students for he
 Mary was unable to make it for a meeting today, so we arranged to meetup during my Thursday class instead.
 After this Monday class, I went home and implented a Glaucoma and a substitute preset for Cataracts in the menu. The menu can now add these effects over the user's screen, and they can stack. There is also a reset button that resets the effects.
 
+![Image](Images/ConstellationMenu.png)
+
 ### Thursday Class:
 Today I was scheduled to meet with Mary but she was unable to attend. So instead, I decided to work on cleaning up my project. I added colourblindness options to the menu as placeholders for future development (and as reminders to do my work). I also went through and removed all duplicate code and just generally cleaned up my code for my scripts. Other than that, I did not do much work as I was expecting Mary to arrive for a meeting and did not want to get too indepth with work and have to pause progress.
 
@@ -98,9 +102,15 @@ Today I was scheduled to meet with Mary but she was unable to attend. So instead
 Over the holidays, I did not have a lot of time to work on my project as I was not home for much of it. In the time I was able to work on it, I focused on cleaning up the game and making it more user friendly, as well as add a few more features to the game.
 The first thing I did was add a menu system. At the moment, it simply just has a "play" button which when clicked, activates the objective in the game. I also prevented the user from interactng with objects in the world until the play button has been clicked to prevent them from messing up the scene before they are meant to.
 
+![Image](Images/OldPlayButton.png)
+
 My next part was to add in some missing visual effects. I began by creatign a new blur shader to represent Cataracts as there was no good plugins for Unity which provided the blur I wanted, while also running smoothly on a mobile device. This caused the most problems as mobile devices do not like using shaders, so as it stands, my current blur shader reduces performance rather heavily. This doesn't matter too much when it is used alone, but once you start stacking other visual conditions with it, the game really begins to struggle. With all my visual effects stacked, it reduces performance to around 25-30 fps which is borderline unplayable in a VR situation. For now, I am going to leave it as it is and work on more important features.
 
+![Image](Images/OldCataracts.png)
+
 Next on the list was to implement colour blindness as I had already played around with it previously. It turns out that the shaders I was using were too performance heavy for mobile devices. I researched some new ways of implementing it and found a much more optimsed mobile shader which worked very similarily, except excluded tritanopia. I have implemented this for now, and will try and find a solution to implement tritanopia in the future.
+
+![Image](Images/OldColourBlindness.png)
 
 I wanted there to be more interaction with the environment to make the kitchen feel more realistic. To get this feel, I added in an interactable cupboard below one of the kitchen benches, as well as a drawer that slides out under the sink. This way the user is able to open and close the doors, and put stuff inside of these places. It worked well, however it felt a little clunky to use, so I decided to rework my pointer, and how it interacts with objects. I opted to change my pointer from being a simple GVRpointer, to being more of a manipulation pointer. This means that I added a smoother reticle, as well as the pointer's laser now dynamically moves based on the 'mass' of an object. If you pick up and object, the laser now bends depending on what the object it. It just makes everything feel a little more realistic, and also prevents the reticle from falling off of objects (especially the cupboard and drawer) when using them. While I was adding this feature, I also added in the ability to move and object forward and backwards in the world space simply using the touch pad.
 
@@ -124,8 +134,12 @@ Today, Adon talked to me about the game and decided he wanted me to try and impl
 ### Monday Class:
 Today we had the first of the Otago Polytechnic Open Days. Over the weekend, I finished up the game for the open day, as well as the HUD. Unfortunately, I did not have enough time to finish the HUD, and so once a visual effect was applied to the user, it effected the HUD as well. This was fine as this was just a day to test out the app for new people. I spent the whole class (plus a few hours before hand) showing off my application. For the most part, everyone played the game easily with minimal instruction, which I found to be a success, since it was not too indepth for new players. I got some notes from some of the users, including users who had previous use of Unity, and they all agreed that the HUD needed to be ontop of the visual conditions, which I agreed with.
 
+![Image](Images/OldHUD.png)
+
 ### Thursday Class:
 I started working on making my HUD visable over the visual conditions. I had an idea of using multiple cameras to trick the game into displaying it over top, and started looking into it. My first concern was that multiple cameras may cause performance issues on mobile devices, however this did not seem to be the case. I proceeded to work on implementing a multi camera environment, and it worked to my amazement. The only issue was to have it in a location in 3D space that was not to odifficult to read in VR, nor was it too imposing on the user. This just took a big of trial and error to get right, but now I have a basic HUD setup and ready to deploy in the future.
+
+![Image](Images/NewHUD.png)
 
 ### Reflection:
 
