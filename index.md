@@ -65,6 +65,10 @@ This Thursday class I ebgan looking into how to implement most of my visual effe
 ## Week: 7
 ### Monday Class:
 Today I looked into making a menu system for the simulation. I wanted to be able to access the different visual conditions while in the simulation. I looked into the best ways of making menus in virtual reality. One thing I stumbled upon was Google DayDream Elements. This was a package that contained all that was needed to create virtual elements inside of a virtual world specifically for the DayDream headset I was working with. Once I started using it, I quickly realised I would need to remake my project as Google DayDream wanted to reinstall the Google VR package I already had installed. It just ended up breaking my project, so I imported all my models into  anew project that I set Google DayDream Elements in, and went from there. Within about 20 minutes I had caught up to where I was and was ready to start development. I planned out how my menu would look on Paint.net. I made sure to annotate it a bit so that I could show Mary my ideas. Mary was unable to come in today as she was in a meeting, so we arranged a meetup on Tuesday instead.
+Below are some of the concepts for my menu systems.
+
+![Image](Images/CircleMenu.png)
+![Image](Images/DifferentMenus.png)
 
 ### Tuesday:
 Today I met with Mary. This time we talked more specifically on how to make the simulation more enjoyable. We brainstormed ideas on what we could to do improve the usability and to make it more interesting. We talked about making the simulation into more of a game, rather than just a simple simulation. We brainstormed that we could have a game where the user has to do something specific, then redo something similar with visual conditions applied over top. We discussed about having visual condition stack ontop of each other. I then showed her what i had been working on. I showed her my Glaucoma effects and the kitchen with the objects with physics. She was happy with where I was in development. I clarified some extra details about certain visual impairments with her while she was in person, and now I know exactly where I need to go from here.
