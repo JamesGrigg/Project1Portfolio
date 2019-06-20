@@ -96,6 +96,9 @@ Next on the list was to implement colour blindness as I had already played aroun
 
 I wanted there to be more interaction with the environment to make the kitchen feel more realistic. To get this feel, I added in an interactable cupboard below one of the kitchen benches, as well as a drawer that slides out under the sink. This way the user is able to open and close the doors, and put stuff inside of these places. It worked well, however it felt a little clunky to use, so I decided to rework my pointer, and how it interacts with objects. I opted to change my pointer from being a simple GVRpointer, to being more of a manipulation pointer. This means that I added a smoother reticle, as well as the pointer's laser now dynamically moves based on the 'mass' of an object. If you pick up and object, the laser now bends depending on what the object it. It just makes everything feel a little more realistic, and also prevents the reticle from falling off of objects (especially the cupboard and drawer) when using them. While I was adding this feature, I also added in the ability to move and object forward and backwards in the world space simply using the touch pad.
 
+![Image](Images/Gameplay3Drawer.png)
+![Image](Images/Gameplay3Cupboard.png)
+
 Lastly I just cleaned up the game a little. I changed the way that shadows are rendered in the game. They now look a lot smoother and not as ugly, while running better on mobile than they used to. I also added a simply hover effect that highlights objects when hovering over them.
 
 ### Reflection:
