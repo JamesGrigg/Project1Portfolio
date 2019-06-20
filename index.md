@@ -141,6 +141,7 @@ Today was the first day back after the break. I met with Mary and showed her wha
 Today, Adon talked to me about the game and decided he wanted me to try and implement a HUD (Heads up display) into the app to try and make it easier for people to keep track of visual conditions, and objectives. He also mentioned that on Monday, we will be having an open day, and he wanted me to prepare a basic game for the kids to be able to play when they come in. We agreed that we could just use the simple game that already exists (which is to put the object into the sink), but have it so once the user puts an object into the sink, a visual condition is applied (and so on). I knew exactly where to begin on this and started implementing it. At first, I started working on the HUD, however I quickly realised that the way Unity handles a HUD type system inside VR was going to make things difficult. I got a basic HUD setup and then proceeded to work on the game.
 
 ### Reflection:
+This week I turned this prject into a game finally. It might not be a very good game, but it is a start. It will get tested on Monday at the Open day, and I will get some feedback on it and hopefully the feedback I get is positive. I am looking forward to getting some suggestions on what needs improved so I have things to work on.
 
 ## Week 10:
 ### Monday Class:
@@ -154,6 +155,7 @@ I started working on making my HUD visable over the visual conditions. I had an 
 ![Image](Images/NewHUD.png)
 
 ### Reflection:
+This week I learnt that Unity can easily handle having multiple cameras in a single scene. This was very interesting to learn, and became very useful for implementing my HUD properly. With the positive feedback coming from the Open day, I am happy with where my game is, and now have some ideas on where to go from here.
 
 ## Week 11:
 ### Monday Class:
@@ -163,16 +165,20 @@ I was unable to go to this class as I am sick. So far this week I have not done 
 Same situation as above. Was sick on this day as well, and was unable to go to class. This week consisted on minimal work which involdd just updating logs, and fixing up a couple of small bugs. 
 
 ### Reflection:
+Yeah... I was sick so not a lot happened. Not much to reflect on, other than getting sick isn't fun. I was able to clean up some logs and work on this documentation tho which is helpful.
 
 ## Week 12:
 ### Monday Class:
+Today I began working on some new features to implement into the game. I started playing around with newer objectives to add into the game, such as having the user put things into the drawers and cupboard instead of just the sink. Today was primarily just experimentation on how easily it was going to be to use triggers in unity, especially ones that move (for in the drawer). I got a good idea on how to implement these new levels and will progress from here.
 
 ### Thursday Class:
+Today I found out that I would be doing the TEXpo this weekend in the Hub. I would have to present my app once again (just like the other Open day), and decided to stick with the app i used on that Open day. I cleaned up that version of the app, and included the HUD which isn't affected by the visual conditions. I didn't really work anymore on the project, rather than cleaned up the old version so that I can get some more accurate feedback from the TEXpo.
 
 ### Saturday:
 Today we had the TEXpo in the Hub at Polytech. The TEXpo ran from 11am to 4pm, and I had to present my app. I had plenty of people come and use the app, and was able to get some valuable feedback in regards to certain features the users liked and disliked, as well as features they would like to see implemented. People seemed to have quite positive feedback regarding the app, however it was hard to judge properly as most people were too shy to really give the app a go as they had to wear the headset. The people who did give it a go, suggested that I need to emphasise the visual condition's name as they were too distracted playing the game to take time and read the HUD. Other feedback suggestions and ideas are on the "Brainstorm Ideas / Feedback" wiki page. It was good to be able to get some consumer feedback on the product, and it has given me some things to work on since I was starting to run out of good ideas.
 
 ### Reflection:
+The TEXpo was a fun experience. I got some valuable feedback from all types of people, and all of it was positive. A lot of people were impressed with it, and others were happy to hear that it was to help with research of visual conditions. I got some good ideas from users on how to make the game better for users, especially users who have never used it before. The app must be at least a little enjoyable as we had a few kids get really into the game and play with it for a long time. From here I have some good ideas on what to do.
 
 ## Week 13:
 ### Monday Class:
@@ -202,8 +208,10 @@ I have got into contact with Mary, and we have arranged a meeting on Monday to s
 Today I met with Mary for the first time in quite a while. She had been too busy to come along for meetings. This was the last time I will see her for this project, as she is leaving Dunedin for a while. She sat down with me for an hour and tried out the game and gave some feedback. She seemed to really like it!
 
 ### Thursday Class:
+I didn't do anything to the game today. I am pretty much finished development at this point, and spent the whole day just cleaning up my project files and my documentation. Not a lot to say other than that.
 
 ### Reflection:
+This week was essentially my final feedback before I finish this project, and it was all positive! Mary loved the app, and is happy with where it is finishing, which was the goal of this. I am happy with where the app is, and now all thats left is to finish up my documentation for it.
 
 ## Week 16:
 ### Monday Class:
@@ -211,8 +219,6 @@ Spent the whole class working through the Openmind Workshop. At this point, I ha
 
 ### Thursday Class:
 Today we had our last class of the Semester. This means that this is the last class for work on this project. I have spent the whole day cleaning up my documentation by adding some images I had stored away, as well as cleaning up my project and taking some 'cinematic' shots.
-
-### Reflection:
 
 ## Overall Reflection:
 With the end of the Project upon me, I now have some time to reflect on how it all went. Overall I enjoyed working on this project. This was my first time using Unity, so it was a big learning curve from the beginning, and I have learned a lot about development. I enjoyed working with Mary to bring to life her idea of a visual simulation app, and I have enjoyed learning what I am able to do. I have progressed a lot from the basic VR game I originally created, and I am definitely ready to pursue harder challenges.
