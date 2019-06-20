@@ -62,18 +62,19 @@ After I had done all this documentation and research, I started making a 3D kitc
 This week I finally started my real project. I now know what I am meant to be doing, and I have somewhere to start. I have been able to get some good research done about visual conditions, and have a few ideas on how I am going to implement them into a 3D world. After using the visual condition app that Mary suggested, I know exactly what I need to be aiming for.
 
 ## Week: 6
-### Monday Class:
+### Monday Home Session:
 Over the weekend, I had worked on my Kitchen scene. I had used the code I had created for the Ball game a few weeks earlier, to implement physics into the objects that sat ontop of the kitchen bench. The user was now able to pick up pots and pans on the kitchen table and drop them causing them to fall back onto the bench, onto the floor or even into the kitchen sink. After making this, I encountered a bug. If I was to pick up objects and rub them against the kitchen bench, they would begin to fly out sideways for not reason with no control. I decided it wasn't a huge bug and I will worry about it later. Monday's class did not happen due to it being a Public holiday.
 
 ![Image](Images/OldGameplay1.png)
 ![Image](Images/OldGameplay2.png)
 
 ### Thursday Class:
-This Thursday class I ebgan looking into how to implement most of my visual effects. I decided that using Post Processing might be the best solution as both Mary and Adon had suggested being able to change the settings of the visual effect in game. I looked over the post processing effects and decided that the easiest one to start with would be Glaucoma as I could just create a Vignette that creates a faded tunnel vision effect. I was able to create the effect, but currently the only way to turn it on and off is outside of the game. I will implement a way later to be able to change it in game through a menu or something. I also realised a way to fix the magical flying pots bug. After watching a tutorial on an unrelated part of unity, I realised that when I turned gravity off, it meant that any force applied to an object would cause that object to fly away on a tangent. It was a simple fix. When the user interacts with an object, the objects gravity is no longer affected, and instead the object is turned to be in a  Kinematic state. This introduces the problem where there is no collision with objects that are being held, however this makes moving objects around a bit easier. I will worry about details like this later.
+This Thursday class I began looking into how to implement most of my visual effects. I decided that using Post Processing might be the best solution as both Mary and Adon had suggested being able to change the settings of the visual effect in game. I looked over the post processing effects and decided that the easiest one to start with would be Glaucoma as I could just create a Vignette that creates a faded tunnel vision effect. I was able to create the effect, but currently the only way to turn it on and off is outside of the game. I will implement a way later to be able to change it in game through a menu or something. I also realised a way to fix the magical flying pots bug. After watching a tutorial on an unrelated part of unity, I realised that when I turned gravity off, it meant that any force applied to an object would cause that object to fly away on a tangent. It was a simple fix. When the user interacts with an object, the objects gravity is no longer affected, and instead the object is turned to be in a  Kinematic state. This introduces the problem where there is no collision with objects that are being held, however this makes moving objects around a bit easier. I will worry about details like this later.
 
 ![Image](Images/OldGlaucoma.png)
 
 ### Reflection:
+This week I made some good progress on my Kitchen scene. I have got essentially the basics done. I have a good skeleton of what needs to be done. Hopefully the rest of my visual conditions will be as simple to implement as Glaucoma was, but I have a feeling ti won't be that easy since I am working with a mobile device.
 
 ## Week: 7
 ### Monday Class:
@@ -91,6 +92,7 @@ Today I met with Mary. This time we talked more specifically on how to make the 
 After my meeting with Mary on Tuesday, Mary and Adon had a talk about new ideas regarding the simulation. They thought of ways to improve the feel of the game. They came up with an idea of making it more of a game. This time instead having pressured situations with a time limit or something close to that. Adon and I talked about it together and thought of simple ideas such as a pot in a kitchen is about to boil over but then the phone rings. It would be a rather simple fix without any visual conditions applied, but once the conditions are applied it would become much harder. This talk about making it more of a game definitely increased my interest on the topic and increased my performance. I also began work on my Menu system. I decided to follow a 'Constellation Menu' layout, where the menu progressively grows bigger as you choose mroe options. I felt like this way was the best for users in VR.
 
 ### Reflection:
+This week I learned that I should have fully looked into what Google Daydream offered before I started working with GoogleVR, so that I wouldn't have had to remake my project. Luckily it was an easy fix as I am still early in development, but it could have been much worse. Otherwise I am glad I found their Elements package, it is very useful for what I want to be doing, and saves me a lot of development time.
 
 ## Week: 8
 ### Monday Class:
@@ -105,6 +107,7 @@ After this Monday class, I went home and implented a Glaucoma and a substitute p
 Today I was scheduled to meet with Mary but she was unable to attend. So instead, I decided to work on cleaning up my project. I added colourblindness options to the menu as placeholders for future development (and as reminders to do my work). I also went through and removed all duplicate code and just generally cleaned up my code for my scripts. Other than that, I did not do much work as I was expecting Mary to arrive for a meeting and did not want to get too indepth with work and have to pause progress.
 
 ### Reflection:
+This week I made good progress on my Constellation menu. It now works and I can now change the visual conditions in game. This is a must have feature for this, so I am glad I got it implemented early. It is a shame Mary couldn't make it in, as I wanted to make sure this is what she wants, but I am pretty sure she will be happy with how this works.
 
 ## Holidays:
 Over the holidays, I did not have a lot of time to work on my project as I was not home for much of it. In the time I was able to work on it, I focused on cleaning up the game and making it more user friendly, as well as add a few more features to the game.
