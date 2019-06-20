@@ -182,14 +182,17 @@ The TEXpo was a fun experience. I got some valuable feedback from all types of p
 
 ## Week 13:
 ### Monday Class:
+First day back after the TEXpo, and I have learnt that I will be going up to my old high scoool, Otago Boys' High School, for their careers day on Thursday to present my app for the IT stand. I knew straight away that I won't have any time to try and implement new features by Thursday, so I decided just to clean up a few things that I got from feedback from the TEXpo, and then just continue looking into how to implement a few other features after the careers day was finished.
 
 ### Thursday Class:
 Today I was at Otago Boys' High School for their careers day. I presented my app at the IT stand. This event went from 9am to 12pm, however I had to leave slightly early at 11:30. This day served as a more consistent testing period than the TEXpo, as the people who came and tried out the app were mainly students who were studying digital technologies, and were genuinly looking at a career in IT. They were interested and gave the game a good go. With many of them having some basic programming knowledge, they were able to have a good conversation with me about new concepts for the game, as well as other ideas on how to go about doing things. Overall it was rather helpful for ideas on how to progress the game. Refer to the "Brainstorm Ideas / Feedback" wiki page for moe information of things I learnt there.
 
 ### Reflection:
+This week served as another good week for testing and feedback. With the collection of feedback I have recieved, I believe I know where I need to go. I need to start by making the visual conditions more prominent, and the HUD might need a change of sorts.
 
 ## Week 14:
 ### Monday Class:
+This class was an experimental class. I looked into how lighting worked in Unity. I learned about how to bake lighting and how to make it better for performance on a mobile device. Next class, I will try and implement it into the scene. Other than that, I didn't do anything else as learning about this took quite a while.
 
 ### Thursday Class:
 Today I worked on making the scene look a little nicer. I have added in a light on the wall, a roof to the kitchen and have baked the lighting so that it looks mor realistic. I have also added a window into the kitchen, which has a small lawn outside with some grass and trees. It's nothing too beautiful, but it gives the scene some life. The hardest part is making a nice environment that will still run at 60fps on a mobile device, as anything less than 60fps can start causing issues in VR. This is difficult to balance out since my shaders already cause some performance drops. 
@@ -202,6 +205,7 @@ I have got into contact with Mary, and we have arranged a meeting on Monday to s
 ![Image](Images/Cinematic1.png)
 
 ### Reflection:
+I finally have a more polished looking game. The baked lighting looks very clean when in VR which is what I was worried about. These scene looks more realistic (as realistic as I could make it with free assests anyway). I am happy with there the project stands, as it is starting to wrap up now.
 
 ## Week 15:
 ### Monday Class:
