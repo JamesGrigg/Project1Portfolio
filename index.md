@@ -13,6 +13,7 @@ Before the second class, I had an interview with Adon about which project I want
 During our Thursday class, the project teams were announced. I had been put into the Game Development project, however I had been split off into a subgroup due to the number of people wishing to do Game Dev. I was split into a group of 3 with Mitchell Briggs and Nick Mulrooney. For this Thursday class, we just got to know each other. We learnt about who was confident at what things and quite quickly got friendly.
 
 ### Reflection:
+This week I had to make a hard decision between working on a project which I think might be where I want to go in the future (SysOps), and a project which I had been interested in since I got to Otago Polytechnic. After a conversation with both of the lecturers in charge of both projects, I have decided to go with the Game development project, as it is something I am interested in, and I am not taking any paper like it this year, unlike with SysOps where I am taking a System Admin paper. This way I get a good feeling for both subjects.
 
 ## Week: 2
 ### Monday Class:
