@@ -40,12 +40,13 @@ This week I finally started thinking about my project. I played around with Unit
 
 ## Week: 4
 ### Monday Class:
-On the Monday class, I decided to dwell deeper into Colour Blindness. I began researching it, learning about which condition effected which colours and how it happened. This gave me a good understanding of the three main types of colour blindness, Protonopia, Deuteranopia and Tritanopia. From here I documented some key details on my Github page. I also played around with the colour blindness plugin I had aquired last class.
+On the Monday class, I decided to dwell deeper into Colour Blindness. I began researching it, learning about which condition effected which colours and how it happened. This gave me a good understanding of the three main types of colour blindness, Protonopia, Deuteranopia and Tritanopia. From here I documented some key details on my Github page. I also played around with the colour blindness plugin I had aquired last class. 
 
 ### Thursday Class:
 With the knowledge I now had from the Monday session, I created a basic showcase in Unity. I created a world with these blocks which were all different colours. The blocks were placed in a way which was able to show how different colours can easily blend together with colour blindness. This was a good starting ground for a visual impairments project. As a group, we also wrote down our README on Github, outlining what we could potentially do with this app. During the creation of this showcase, I wanted to know more about which colours were affected by other colours so I continued to document which colours blended with other colours. By the end of the class, I had a working showcase which did a good job in showing the different colours that blend with different types of colour blindness.
 
 ### Reflection:
+Researching Colour Blindness taught me a lot about how visual conditions affect the human eye. Not just colour blindness, but also other visual condition. This will be helpful in the future once I start working with different visual conditions. By creating my colour blindness simulation world, I have gotten a good grasp on how to use Unity, and can now easily create simple worlds relatively quickly.
 
 ## Week: 5
 ### Monday Class:
@@ -55,9 +56,10 @@ After this class, I emailed Mary and got a list of the visual condition she woul
 
 ### Thursday Class:
 This Thursday class was essentially a research day. I had recieved the day before a list of the visual conditions that Mary wished to see in the game. I began to document on Github what these conditions were. Mary had also suggested getting an app on my iPhone which did a similar simulation but just through the camera. With the help of the app and some research, I was able to document how these different visual conditions affect the patient, while also creating a seperate Github wiki page that documented ways I thought of on how to implement these visual conditions as effects in Unity.
-After I had done all this documentation and research, I started making a 3D kitchen in Unity. I imported some kitchen assets, and built a basic Kitchen with a bench and some objects ontop of the bench. All the is able to do at this point is load up into this kitchen and look around.
+After I had done all this documentation and research, I started making a 3D kitchen in Unity. I imported some kitchen assets, and built a basic Kitchen with a bench and some objects ontop of the bench. All the user is able to do at this point is load up into this kitchen and look around.
 
 ### Reflection:
+This week I finally started my real project. I now know what I am meant to be doing, and I have somewhere to start. I have been able to get some good research done about visual conditions, and have a few ideas on how I am going to implement them into a 3D world. After using the visual condition app that Mary suggested, I know exactly what I need to be aiming for.
 
 ## Week: 6
 ### Monday Class:
