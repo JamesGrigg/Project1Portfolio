@@ -201,6 +201,9 @@ Today I met with Mary for the first time in quite a while. She had been too busy
 Spent the whole class working through the Openmind Workshop. At this point, I have pretty much finiahed development of the app. I recieved the login details for the Polytech Playstore account, and they want me to upload my app onto their account. Mary also wants this to happen, as it will then be accessible overseas with people who wanted to use the app.  
 
 ### Thursday Class:
-
+Today we had our last class of the Semester. This means that this is the last class for work on this project. I have spent the whole day cleaning up my documentation by adding some images I had stored away, as well as cleaning up my project and taking some 'cinematic' shots.
 
 ### Reflection:
+
+## Overall Reflection:
+With the end of the Project upon me, I now have some time to reflect on how it all went. Overall I enjoyed working on this project. This was my first time using Unity, so it was a big learning curve from the beginning, and I have learned a lot about development. I enjoyed working with Mary to bring to life her idea of a visual simulation app, and I have enjoyed learning what I am able to do. I have progressed a lot from the basic VR game I originally created, and I am definitely ready to pursue harder challenges.
