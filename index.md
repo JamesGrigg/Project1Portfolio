@@ -174,10 +174,14 @@ Today I was at Otago Boys' High School for their careers day. I presented my app
 ### Monday Class:
 
 ### Thursday Class:
-Today I worked on making the scene look a little nicer. I have added in a light on the wall, a roof to the kitchen and have baked the lighting so that it looks mor realistic. I have also added a window into the kitchen, which has a small lawn outside with some grass and trees. It's nothing too beautiful, but it gives the scene some life. The hardest part is making a nice environment that will still run at 60fps on a mobile device, as anything less than 60fps can start causing issues in VR. This is difficult to balance out since my shaders already cause some performance drops.
+Today I worked on making the scene look a little nicer. I have added in a light on the wall, a roof to the kitchen and have baked the lighting so that it looks mor realistic. I have also added a window into the kitchen, which has a small lawn outside with some grass and trees. It's nothing too beautiful, but it gives the scene some life. The hardest part is making a nice environment that will still run at 60fps on a mobile device, as anything less than 60fps can start causing issues in VR. This is difficult to balance out since my shaders already cause some performance drops. 
+
+![Image](Images/Cinematic2.png)
 
 ### Weekend:
 I have got into contact with Mary, and we have arranged a meeting on Monday to see how the product is looking. I have also added a small tutorial section to the game, which is just on the wall to the right of the player. It gives the basics on how the game works as well as how the controls work. I have also finally implemented the sandbox mode, which was a highly requested feature. The game is sectioned and has 3 levels per section. At this point, the game is pretty much finished.
+
+![Image](Images/Cinematic1.png)
 
 ### Reflection:
 
