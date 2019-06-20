@@ -131,6 +131,7 @@ I wanted there to be more interaction with the environment to make the kitchen f
 Lastly I just cleaned up the game a little. I changed the way that shadows are rendered in the game. They now look a lot smoother and not as ugly, while running better on mobile than they used to. I also added a simply hover effect that highlights objects when hovering over them.
 
 ### Reflection:
+Over these holidays, I mainly aimed on making the game more 'user friendly'. I gave the game a menu system which will be built upon, and I have added a better pointer interaction. Overall, the game feels a lot more polished, even in it's ugly state. With the inclusion of the drawer and cupboard, I have opened up the possibilities for more game objectives to make the game harder and more fun. Overall, even tho there wasn't a heap of work done over the holidays, there was some important changes that needed to happen and I am happy where with the project is at so far.
 
 ## Week 9:
 ### Monday Class:
